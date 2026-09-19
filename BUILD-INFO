@@ -1,0 +1,17 @@
+# LambLisp release provenance
+env:            linux_x86_64_cuda
+git_commit:     a7d185b9a6ae5dcc12a09c46e64fa230127aa75e
+git_describe:   a7d185b
+git_branch:     master
+git_origin:     https://github.com/wawhite3/Lamb-v01.git
+tree_state:     clean -- this binary is reproducible from the commit above
+pushed_to_origin: 4 commit(s) ahead of origin/master
+build_utc:      2026-09-19 08:04:00 UTC
+build_host:     fisher
+build_stamp:    W3_SYSTEM_VERSION "1.01.1789805005"
+feature_flags:  -DLL_BOARD_NAME='"linux_x86_64_cuda"' -DLL_POSIX=1 -DLL_ARDUINO=1 -DLL_COMPLEX=1 -DLL_RATIONAL=1 -DLL_BIGNUM=1 -DLL_CUDA=1 -DLL_MODBUS=1 -DLL_PROFIBUS=1 -DLL_COMMONIO=1 -DLL_AMD64=1 -DLL_X86_64=1 
+toolchain:      gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+manual_source:  /home/sir/src/Lamb-v01/doc/LambLisp.pdf
+manual_built_utc: 2026-09-19 06:02:20 UTC
+demo_source:    .pio/artifacts/wasm32_browser/demo
+demo_built_utc: 2026-09-19 07:31:19 UTC
