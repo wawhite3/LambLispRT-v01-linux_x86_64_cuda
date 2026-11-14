@@ -1,0 +1,17 @@
+; Settings-Lamb.scm -- auto-written by the VM.  Reboot required.
+; boot_pending 1 means a boot was attempted with these values and did not finish.
+((cell_block_size . 0)
+ (gc_pool_target . 24576)
+ (extension_block_size . 8192)
+ (ncg_frame_pool_size . 16)
+ (pool_reserve_pct . 25)
+ (pool_reserve_bytes . 0)
+ (gc_persist . 1)
+ (va_list_max . 8192)
+ (gc_total_marked . 19387)
+ (sint_in_iram . 1)
+ (rootstack_in_iram . 1)
+ (rootstack_max . 0)
+ (rootstack_init . 0)
+ (markstack_init . 0)
+ (boot_pending . 0))
